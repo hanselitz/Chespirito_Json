@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chespirito Tutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_txt_load_names">Cargar Lista</string>
+    <string name="no_connection">Favor de revisar su conexion a internet</string>
+    <string name="server_error">Hubo un problema con el servidor</string>
+
+</resources>
